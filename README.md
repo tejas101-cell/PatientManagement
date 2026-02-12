@@ -1,7 +1,6 @@
 > **Kafka docker configuration**
 
 docker run -d ^
-   
    --name kafka ^
    --network internal ^
    -p 9092:9092 ^
